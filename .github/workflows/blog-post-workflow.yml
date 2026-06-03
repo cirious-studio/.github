@@ -27,5 +27,5 @@ jobs:
         with:
           # Para Medium, use: https://medium.com/feed/@seu_usuario
           # Para Dev.to, use: https://dev.to/feed/cirious_foundation
-          feed_list: "https://medium.com/feed/@cirious.studio"
+          feed_list: "https://dev.to/feed/cirious_foundation"
           readme_path: "profile/README.md"
