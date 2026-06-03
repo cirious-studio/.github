@@ -73,6 +73,7 @@ Our goal is to build an open ecosystem centered around learning, experimentation
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Day Zero: Introducing the Engineering Philosophy of the Cirious Foundation](https://dev.to/cirious_foundation/day-zero-introducing-the-engineering-philosophy-of-the-cirious-foundation-2pa8)
 <!-- BLOG-POST-LIST:END -->
   
 ---
