@@ -82,8 +82,8 @@ Our goal is to build an open ecosystem centered around learning, experimentation
   <h2>📊 Ecosystem Statistics</h2>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cirious-foundation&" alt="cirious-foundation-streak" />
-  <img src="https://cirious-telemetry-stats.vercel.app/api?username=cirious-foundation&show_icons=true&locale=en" alt="cirious-foundation-stats" />
-  <img src="https://cirious-telemetry-stats.vercel.app/api/wakatime?username=cirious_foundation&layout=compact" alt="WakaTime Stats" /><br>
+  <img src="https://github.com/cirious-foundation/.github/blob/master/profile/stats.svg" alt="cirious-foundation-stats" />
+  <img src="https://github.com/cirious-foundation/.github/blob/master/profile/wakatime.svg" alt="WakaTime Stats" /><br>
   <img src="https://cirious-telemetry-stats.vercel.app/api/top-langs?username=cirious-foundation&show_icons=true&locale=en" alt="cirious-foundation-langs" />
 </div>
 
